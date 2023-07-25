@@ -1,0 +1,10 @@
+* cl-mount-info
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://notabug.org/cage/cl-mount-info.git   |
+| commit  |   |
+| systems | cl-mount-info |
+|---------+-------------------------------------------|
+
