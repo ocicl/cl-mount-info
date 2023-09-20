@@ -1,9 +1,9 @@
 * cl-mount-info
 
+cl-mount-info is a (thin) wrapper around getmntent(3) and related C functions.
 
-
-|---------+------------------------------------------------|
-| source  | git:https://notabug.org/cage/cl-mount-info.git |
-| commit  | b332f75                                        |
-| systems | cl-mount-info                                  |
-|---------+------------------------------------------------|
+|---------+-------------------------------------------------|
+| source  | git:https://codeberg.org/cage/cl-mount-info.git |
+| commit  | 5a7fbdbfe4
+| systems | cl-mount-info                                   |
+|---------+-------------------------------------------------|
