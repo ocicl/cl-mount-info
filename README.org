@@ -4,6 +4,6 @@
 
 |---------+------------------------------------------------|
 | source  | git:https://notabug.org/cage/cl-mount-info.git |
-| commit  | 2024f50                                        |
+| commit  | b332f75                                        |
 | systems | cl-mount-info                                  |
 |---------+------------------------------------------------|
