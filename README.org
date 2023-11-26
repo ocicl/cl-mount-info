@@ -4,6 +4,6 @@ cl-mount-info is a (thin) wrapper around getmntent(3) and related C functions.
 
 |---------+-------------------------------------------------|
 | source  | git:https://codeberg.org/cage/cl-mount-info.git |
-| commit  | b332f75                                         |
+| commit  | 5a7fbdb                                         |
 | systems | cl-mount-info                                   |
 |---------+-------------------------------------------------|
